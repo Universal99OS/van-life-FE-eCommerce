@@ -26,6 +26,9 @@ const config: Config = {
         'light-yellow': '#FFEAD0',
         
 
+      },
+      borderColor:{
+        'border-orange':'#E17654'
       }
     },
   },
